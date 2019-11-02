@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
+N:Boucher;Gino;;;
+FN: Gino  Boucher 
+ORG:Scientific Games;
+TITLE:Facility Maintenance Manager\nCanada
+EMAIL;type=INTERNET;type=WORK;type=pref:gino.boucher@scientificgames.com
+TEL;type=WORK;type=VOICE:+1 514 708 3585
+item1.ADR;type=WORK;type=pref:;;3000 Boul Assomption\nMontreal\, QC;;;H1N 3V5;Canada
+item1.X-ABADR:sg
+item2.URL;type=pref:linkedin.com/in/gino-boucher
+item2.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
